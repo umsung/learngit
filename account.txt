@@ -1,0 +1,71 @@
+中民后台登陆地址
+http://oa.zhongmin.net.cn
+
+段步伟
+a123456
+
+
+邮箱登陆网址
+mail.win-world.com
+
+duanbuwei@win-world.com
+
+Qq545699233
+
+
+红酒世界（综合）电商后台管理系统
+http://tmmall.wine-world.com:30003/  
+颜志泽   leton123
+
+
+红酒世界香港后台管理系统
+http://www.wine-world.com.hk:30008/  
+wineworld   wine-world/123
+
+
+
+大陆商城VIP测试 账号     
+529547659@qq.com  654321
+
+
+
+测试网址都是在正式网址后面加一个“-test”
+大陆PC测试网址：http://mall-test.wine-world.com/
+大陆wap测试网址：http://mmall-test.wine-world.com/
+大陆Andorid测试网址：https://app-test.wine-world.com/
+大陆ios测试网址：http://apprn-test.wine-world.com/ 
+大陆pc测试登陆网址：http://account-test.wine-world.com/account/login
+
+https://mmall-test.wine-world.com/account/login
+
+大陆商城测试后台网址：http://admin1-test.wine-world.com:30008/   
+账号：zxb
+密码：123456
+
+大陆测试服务器 vip账号  19900000077     内部员工账号：19900000082    普通员工：19900000012
+
+小程序 18800000235
+
+xiaocheng
+
+视频搜索资讯web版：http://www-test.wine-world.com/live
+资讯手机版：http://m-test.wine-world.com/live
+
+香港商城主站测试
+http://tmmall.wine-world.com:30016/
+香港商城app测试
+http://tmmall.wine-world.com:30017/
+香港后台测试
+http://tmmall.wine-world.com:30018/
+
+wineworld  123456
+
+香港普通账号 13260016001     123456
+香港内部员工 13260016012     123456
+
+18700000010
+
+
+192.168.1.107:81   香港pc端
+192.168.1.107:30008   香港后台管理   用户名wineworld   密码123456
+192.168.1.107:8086  香港mobile浏览器端
